@@ -1,0 +1,57 @@
+html{
+	font-family: Roboto,"Helvetica Neue",sans-serif;
+}
+.main{
+	width: 940px;
+	height: 950px;
+	margin: 10px 15px 20px 30px;
+	margin:0 auto;
+	position: relative;
+}
+.linea{
+	height: 5px;
+	background-color: #BCBBBB;
+}
+.div1{
+	display: flex;
+	color: #747704;
+	text-align: right;
+}
+.div2{
+	font-size: 60px;
+	margin-left: 415px;
+	margin-bottom: -20px;
+	margin-top: 5px;
+}
+.imagen1{
+	width: 940px;
+	margin-top: 20px;
+}
+.imagenes{
+	display: flex;
+	text-align: center;
+	color: #747704; 
+}
+.imagen2{
+	width: 300px;
+}
+.imagen3{
+	width: 300px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.letra{
+	color: #BCBBBB;
+	font-size: 35px;
+	margin-left:20px;
+	margin-top: 25px;
+	margin-bottom: 10px;
+}
+.imagen4{
+	width: 300px;
+}
+.p1{
+	font-size: 30px;
+	margin-top: 10px;
+    margin-bottom: -10px;
+}

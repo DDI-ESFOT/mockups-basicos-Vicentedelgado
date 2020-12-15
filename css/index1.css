@@ -1,0 +1,41 @@
+html{
+	font-family: 'Open Sans', sans-serif;
+}
+.main{
+	background-color: #ffffff;
+	width: 940px;
+	height: 650px;
+	margin: 10px 15px 20px 30px;
+	margin:0 auto;
+	position: relative;
+}
+.encabezado{
+ 	background-color: #2cbebe;
+ 	height: 100px;
+}
+.encabezado div{
+	margin-top: 20px;
+	color: #ffffff;
+	font-size: 60px;
+	margin-left: 40px;
+	position: relative;
+	top: 30px;
+}
+.row{
+	display: flex;
+}
+.row div{
+	margin-top: 40px;
+}
+h1{
+	color: #ffffff;
+}
+p{
+	color: #8e8c8a;
+	margin-left: 30px;
+	font-size: 27px;
+}
+img{
+	margin: 0 auto;
+	width: 400px;
+}

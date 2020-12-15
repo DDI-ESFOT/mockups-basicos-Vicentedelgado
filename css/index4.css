@@ -1,0 +1,66 @@
+.main{
+	width: 940px;
+	height: 950px;
+	margin: 10px 15px 20px 30px;
+	margin:0 auto;
+	position: relative;
+}
+.linea{
+	height: 5px;
+	background-color: #D0C4AB;
+	margin-bottom: 20px;
+}
+.main1{
+	background-color: #131A2D;
+}
+.div1{
+	display: flex;
+	color: #131A2D;
+	text-align: right;
+}
+.logo1{
+	width: 111px;
+	height: 112px;
+}
+.div2{
+	font-size: 60px;
+	margin-left: 415px;
+	margin-bottom: -20px;
+	margin-top: 5px;
+}
+.imagen1{
+	width: 940px;
+	margin-top: 20px;
+}
+.imagenes{
+	display: flex;
+	text-align: center;
+	color: #D0C4AB; 
+}
+.imagen2{
+	width: 440px;
+	margin-left: 20px;
+	margin-right: 10px;
+}
+.imagen3{
+	width: 440px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.letra{
+	color: #D0C4AB;
+	font-size: 35px;
+	margin-left:20px;
+	margin-top: 25px;
+	margin-bottom: 10px;
+}
+.imagen4{
+	width: 440px;
+	margin-left: 20px;
+	margin-right: 10px;
+}
+.p1{
+	font-size: 30px;
+	margin-top: 10px;
+    margin-bottom: -10px;
+}
